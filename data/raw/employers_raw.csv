@@ -14,7 +14,7 @@ employer_id,employer_name,industry,employer_quality
 13,  Employer 13  ,retail,-0.779
 14,Employer 14,TECH,0.809
 15,Employer 15,manufacturing,-0.5
-16,Employer 16,manufacturing,-0.05
+16,Employer 16,,-0.05
 17,Employer 17,healthcare,0.01
 18,Employer 18,tech,-0.442
 19,Employer 19,manufacturing,-1.545
@@ -64,7 +64,7 @@ employer_id,employer_name,industry,employer_quality
 63,Employer 63,healthcare,1.055
 64,Employer 64,education,0.008
 65,Employer 65,healthcare,1.04
-66,Employer 66,tech,-0.111
+66,Employer 66,,-0.111
 67,employer 67,retail,0.414
 68,Employer 68,healthcare,-0.625
 69,  Employer 69  ,manufacturing,-0.094
@@ -78,14 +78,4 @@ employer_id,employer_name,industry,employer_quality
 77,Employer 77,education,2.506
 78,Employer 78,tech,-0.044
 79,Employer 79,  MANUFACTURING  ,1.13
-80,Employer 80,manufacturing,-0.854
-69,  Employer 69  ,manufacturing,-0.094
-15,Employer 15,manufacturing,-0.5
-6,employer 6,tech,-0.405
-70,Employer 70,education,1.312
-8,Employer 8,retail,1.471
-37,Employer 37,retail,-0.676
-57,employer 57,manufacturing,-1.965
-13,  Employer 13  ,retail,-0.779
-23,Employer 23,HEALTHCARE,0.843
-78,Employer 78,tech,-0.044
+80,Employer 80,,-0.854
