@@ -8,7 +8,10 @@ FROM read_csv_auto('data/raw/employers_raw.csv');
 
 CREATE OR REPLACE TABLE retirement_plans_raw AS
 SELECT *
-FROM read_csv_auto('data/raw/retirement_plans_raw.csv');
+FROM read_csv_auto(
+    'data/raw/retirement_plans_raw.csv',
+    all_varchar = true
+);
 
 CREATE OR REPLACE TABLE household_finances_raw AS
 SELECT *
