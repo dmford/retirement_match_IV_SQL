@@ -1,0 +1,2011 @@
+employee_id,employer_id,age,education,financial_literacy
+1,33,46,graduate,0.349
+2,55,50,some_college,-0.885
+3,6,27,college,-0.028
+4,11,40,  high_school  ,-0.906
+5,45,28,COLLEGE,1.678
+6,65,49,high_school,-0.813
+7,16,47,graduate,1.627
+8,59,29,college,0.005
+9,41,60,college,-0.123
+10,55,30,high_school,0.532
+11,15,27,some_college,1.135
+12,73,59,college,2.103
+13,66,37,high_school,-1.517
+14,6,55,HIGH_SCHOOL,0.811
+15,19,25,graduate,1.001
+16,55,34,SOME_COLLEGE,0.504
+17,66,45,high_school,2.444
+18,75,48,HIGH_SCHOOL,-0.876
+19,46,37,some_college,1.431
+20,74,60,GRADUATE,0.115
+21,48,40,college,1.276
+22,17,52,college,0.183
+23,68,53,graduate,-1.565
+24,20,38,some_college,0.634
+25,28,33,high_school,0.247
+26,55,36,high_school,-0.566
+27,15,38,college,-1.042
+28,39,57,high_school,-1.218
+29,32,32,  HIGH_SCHOOL  ,-0.791
+30,23,47,graduate,-0.117
+31,67,40,college,0.92
+32,56,39,college,1.045
+33,58,37,high_school,-1.406
+34,77,49,some_college,0.275
+35,53,46,some_college,-1.028
+36,17,46,high_school,1.558
+37,69,38,SOME_COLLEGE,-0.837
+38,28,46,high_school,-0.492
+39,63,52,some_college,-1.386
+40,30,60,college,-0.983
+41,33,47,some_college,0.062
+42,55,49,  some_college  ,2.228
+43,55,40,high_school,-1.438
+44,40,53,graduate,0.82
+45,66,37,college,2.176
+46,46,56,college,-1.374
+47,68,25,high_school,0.208
+48,44,35,some_college,-0.979
+49,30,46,high_school,0.063
+50,35,55,college,0.613
+51,57,54,some_college,-0.111
+52,47,53,some_college,-1.316
+53,2,30,some_college,1.314
+54,1,27,some_college,-0.505
+55,58,33,high_school,-0.467
+56,42,41,high_school,-0.316
+57,62,50,some_college,-0.065
+58,69,31,college,-1.245
+59,24,57,high_school,-0.64
+60,41,45,graduate,-0.109
+61,71,49,  some_college  ,0.532
+62,32,32,  graduate  ,-0.731
+63,20,58,high_school,-0.78
+64,53,53,high_school,0.53
+65,68,58,some_college,-0.253
+66,60,41,HIGH_SCHOOL,1.51
+67,30,47,some_college,-0.192
+68,17,58,SOME_COLLEGE,-0.87
+69,75,28,SOME_COLLEGE,-0.641
+70,21,54,college,-0.925
+71,40,41,some_college,0.945
+72,36,53,college,0.113
+73,61,48,college,0.956
+74,1,32,graduate,0.307
+75,1,51,high_school,0.82
+76,43,59,college,0.181
+77,35,49,high_school,-0.372
+78,64,28,COLLEGE,0.19
+79,10,32,some_college,-0.567
+80,58,54,HIGH_SCHOOL,-0.132
+81,67,34,high_school,0.481
+82,73,36,graduate,-1.202
+83,65,38,high_school,0.912
+84,45,51,high_school,-0.096
+85,10,60,college,-0.189
+86,21,48,some_college,-1.357
+87,29,27,some_college,-0.256
+88,5,29,high_school,0.55
+89,1,28,high_school,-1.409
+90,59,60,graduate,0.094
+91,65,55,some_college,0.786
+92,66,35,college,2.381
+93,59,58,college,-0.682
+94,73,50,SOME_COLLEGE,0.19
+95,26,27,high_school,-2.672
+96,67,29,  high_school  ,0.925
+97,23,56,high_school,-0.979
+98,54,42,some_college,-1.02
+99,38,32,college,-0.317
+100,45,50,some_college,0.314
+101,19,44,college,0.702
+102,78,47,  college  ,0.662
+103,6,38,graduate,0.16
+104,38,44,some_college,-1.532
+105,23,58,SOME_COLLEGE,-1.052
+106,31,45,college,1.527
+107,35,27,high_school,-0.309
+108,31,49,some_college,-0.782
+109,26,51,college,-0.499
+110,23,27,graduate,1.404
+111,15,57,some_college,-0.228
+112,36,55,  college  ,0.785
+113,29,48,college,-1.373
+114,46,60,high_school,-0.065
+115,13,45,HIGH_SCHOOL,0.479
+116,14,49,GRADUATE,-0.618
+117,72,48,  college  ,0.374
+118,64,39,college,-1.609
+119,59,43,  college  ,0.568
+120,28,36,some_college,-0.155
+121,39,52,college,0.85
+122,79,37,COLLEGE,-0.295
+123,40,60,high_school,0.03
+124,69,31,college,-1.248
+125,40,36,  graduate  ,0.258
+126,24,53,  college  ,0.811
+127,57,52,college,0.487
+128,32,42,college,2.557
+129,5,44,graduate,-0.254
+130,57,57,graduate,-0.914
+131,8,51,graduate,-0.064
+132,4,58,college,2.267
+133,6,52,some_college,-3.556
+134,71,59,some_college,-0.507
+135,16,55,HIGH_SCHOOL,-0.334
+136,64,27,  some_college  ,0.597
+137,44,51,college,0.989
+138,74,30,college,-0.344
+139,8,34,college,1.548
+140,67,35,graduate,0.146
+141,30,26,college,-0.428
+142,7,26,  HIGH_SCHOOL  ,0.521
+143,34,47,college,-1.33
+144,74,58,some_college,-0.052
+145,6,43,graduate,0.408
+146,20,31,  COLLEGE  ,-0.628
+147,74,55,college,1.061
+148,19,38,some_college,-0.26
+149,16,25,some_college,-1.248
+150,72,60,some_college,0.955
+151,31,35,GRADUATE,-0.845
+152,57,35,HIGH_SCHOOL,1.488
+153,36,41,college,-0.677
+154,7,37,some_college,0.511
+155,14,28,college,0.137
+156,42,33,some_college,-0.708
+157,36,52,some_college,-1.045
+158,47,28,graduate,0.055
+159,23,29,some_college,0.382
+160,57,53,GRADUATE,1.784
+161,66,45,high_school,0.169
+162,32,29,HIGH_SCHOOL,1.946
+163,36,40,high_school,-0.496
+164,10,48,some_college,0.183
+165,19,34,some_college,-1.019
+166,19,26,some_college,-2.143
+167,14,46,college,-1.5
+168,8,26,high_school,-0.842
+169,25,45,some_college,0.602
+170,35,46,some_college,1.368
+171,43,45,high_school,1.116
+172,28,26,graduate,-0.571
+173,47,60,some_college,-0.57
+174,10,27,college,0.428
+175,3,55,  high_school  ,-1.457
+176,13,36,  college  ,0.049
+177,10,41,high_school,1.321
+178,76,37,college,-1.326
+179,68,54,college,1.88
+180,21,50,  college  ,1.877
+181,79,54,some_college,-0.309
+182,51,43,COLLEGE,-1.113
+183,3,44,college,0.163
+184,47,37,high_school,0.253
+185,18,32,some_college,-0.038
+186,65,27,  college  ,-0.515
+187,73,42,graduate,0.044
+188,35,31,  SOME_COLLEGE  ,-1.553
+189,43,45,graduate,0.158
+190,15,29,some_college,0.839
+191,56,29,college,1.185
+192,73,38,HIGH_SCHOOL,-2.073
+193,49,44,high_school,1.883
+194,46,53,some_college,-1.47
+195,2,56,high_school,0.037
+196,7,49,college,1.648
+197,63,56,college,-1.337
+198,16,40,high_school,-1.639
+199,56,59,graduate,-0.927
+200,43,43,HIGH_SCHOOL,1.53
+201,9,43,some_college,-1.446
+202,24,39,college,0.175
+203,19,32,graduate,0.045
+204,38,36,graduate,-1.309
+205,53,44,college,-0.581
+206,24,26,  high_school  ,2.958
+207,65,29,some_college,1.049
+208,63,46,  some_college  ,0.596
+209,51,35,COLLEGE,1.945
+210,59,54,college,0.423
+211,3,53,college,-1.582
+212,22,32,college,-1.03
+213,24,34,some_college,0.147
+214,59,31,college,0.462
+215,3,49,high_school,-0.772
+216,1,43,high_school,0.211
+217,50,25,COLLEGE,0.6
+218,17,25,SOME_COLLEGE,-0.102
+219,36,47,some_college,-0.64
+220,28,42,  some_college  ,-0.421
+221,64,51,  some_college  ,0.782
+222,8,41,high_school,0.679
+223,1,25,college,0.576
+224,5,27,some_college,-1.229
+225,48,57,high_school,0.931
+226,44,59,college,0.343
+227,38,28,college,0.211
+228,29,31,some_college,0.842
+229,31,31,high_school,-0.926
+230,61,37,  high_school  ,1.485
+231,52,26,  graduate  ,0.803
+232,21,25,college,-0.41
+233,75,26,college,0.202
+234,1,42,some_college,-0.054
+235,49,60,some_college,-1.357
+236,57,56,college,-0.012
+237,12,32,college,-1.107
+238,66,40,college,1.843
+239,30,25,  some_college  ,0.128
+240,30,59,some_college,-0.911
+241,51,57,  college  ,-0.916
+242,46,56,college,-0.76
+243,58,42,HIGH_SCHOOL,0.84
+244,46,27,high_school,1.168
+245,34,44,GRADUATE,-1.611
+246,36,55,high_school,0.748
+247,60,28,college,0.066
+248,36,30,high_school,1.308
+249,10,40,college,-0.558
+250,54,56,  college  ,1.178
+251,43,44,  graduate  ,-0.821
+252,10,41,high_school,-1.391
+253,58,51,some_college,-1.098
+254,37,38,college,-0.34
+255,64,28,college,-1.444
+256,42,42,graduate,-0.691
+257,79,36,GRADUATE,-0.328
+258,67,35,high_school,0.068
+259,10,45,high_school,0.638
+260,34,28,high_school,0.632
+261,70,50,some_college,-2.119
+262,33,49,college,-1.034
+263,80,53,college,-1.322
+264,25,35,COLLEGE,0.836
+265,74,28,high_school,-1.465
+266,15,26,COLLEGE,-0.991
+267,73,53,some_college,-0.862
+268,1,45,some_college,-0.308
+269,8,59,high_school,0.566
+270,72,31,COLLEGE,-1.203
+271,50,36,college,-0.018
+272,79,32,  graduate  ,0.529
+273,59,27,COLLEGE,-0.585
+274,15,35,graduate,1.002
+275,32,31,  high_school  ,0.779
+276,13,35,  graduate  ,-2.225
+277,51,49,some_college,-0.771
+278,34,60,high_school,0.29
+279,39,35,graduate,-0.298
+280,57,31,some_college,-0.28
+281,23,51,some_college,1.389
+282,79,47,  high_school  ,-0.147
+283,15,59,some_college,-0.35
+284,22,29,high_school,0.079
+285,20,53,college,-0.745
+286,69,45,college,-0.789
+287,76,28,SOME_COLLEGE,0.028
+288,61,56,college,0.048
+289,36,34,graduate,-0.394
+290,17,38,college,0.152
+291,43,54,  graduate  ,2.753
+292,35,42,high_school,-0.412
+293,12,49,graduate,-1.312
+294,76,59,SOME_COLLEGE,-0.305
+295,6,38,college,-1.638
+296,29,59,college,-1.351
+297,58,54,graduate,1.176
+298,73,60,some_college,0.687
+299,31,52,high_school,0.55
+300,39,32,some_college,-0.69
+301,14,59,college,-0.636
+302,30,29,college,-0.813
+303,37,34,college,0.025
+304,39,59,graduate,-0.845
+305,30,32,GRADUATE,-1.572
+306,22,53,high_school,-1.193
+307,21,54,college,-0.297
+308,45,34,college,-0.752
+309,72,33,SOME_COLLEGE,-0.818
+310,51,39,college,-0.201
+311,9,26,some_college,0.537
+312,54,50,graduate,-0.61
+313,19,46,college,0.77
+314,18,31,HIGH_SCHOOL,-0.707
+315,65,57,some_college,-1.463
+316,41,56,high_school,-0.593
+317,24,47,college,-0.777
+318,31,40,high_school,-1.467
+319,53,34,high_school,-0.449
+320,32,42,graduate,0.267
+321,36,43,college,0.289
+322,8,59,college,0.985
+323,15,31,college,-0.617
+324,44,31,college,1.855
+325,27,50,  some_college  ,-0.387
+326,14,54,  graduate  ,-1.072
+327,13,27,college,0.509
+328,39,44,some_college,-0.406
+329,48,25,graduate,-1.517
+330,28,51,some_college,-1.088
+331,67,35,  some_college  ,-0.053
+332,65,39,college,-1.049
+333,17,39,HIGH_SCHOOL,-0.919
+334,1,51,high_school,-0.497
+335,48,46,  graduate  ,0.223
+336,29,29,college,0.775
+337,9,50,SOME_COLLEGE,-0.904
+338,57,44,graduate,0.633
+339,58,50,college,-0.583
+340,48,27,graduate,1.389
+341,23,37,HIGH_SCHOOL,1.668
+342,22,29,college,-0.434
+343,27,26,college,1.242
+344,40,37,college,0.725
+345,33,34,COLLEGE,-0.907
+346,22,44,HIGH_SCHOOL,0.63
+347,59,27,high_school,0.699
+348,10,48,  some_college  ,-0.067
+349,74,38,some_college,-0.806
+350,42,28,high_school,-1.451
+351,57,46,GRADUATE,-0.423
+352,64,27,high_school,-2.179
+353,19,51,college,1.297
+354,1,34,college,0.261
+355,76,53,high_school,0.478
+356,45,55,high_school,0.029
+357,57,25,graduate,0.338
+358,5,29,HIGH_SCHOOL,0.243
+359,53,52,high_school,-0.464
+360,53,28,HIGH_SCHOOL,-0.973
+361,50,25,college,0.603
+362,76,47,some_college,-0.873
+363,70,31,COLLEGE,-0.206
+364,59,55,high_school,0.601
+365,20,31,graduate,1.8
+366,55,32,college,-1.071
+367,57,55,college,-0.462
+368,41,30,COLLEGE,0.756
+369,38,41,some_college,0.014
+370,31,47,some_college,-1.19
+371,58,57,some_college,0.495
+372,31,31,high_school,-1.947
+373,4,49,high_school,0.093
+374,29,32,some_college,0.821
+375,19,48,college,-1.111
+376,15,39,graduate,-0.224
+377,61,30,some_college,-0.594
+378,60,56,high_school,-1.258
+379,76,52,SOME_COLLEGE,0.495
+380,45,37,HIGH_SCHOOL,0.302
+381,46,28,some_college,0.206
+382,4,41,some_college,0.258
+383,45,41,college,1.825
+384,76,38,  college  ,-2.369
+385,5,34,some_college,-0.621
+386,74,34,college,-0.062
+387,18,40,high_school,0.331
+388,74,36,high_school,0.709
+389,69,37,SOME_COLLEGE,-0.573
+390,73,33,high_school,-0.562
+391,49,29,SOME_COLLEGE,0.857
+392,24,28,some_college,-0.155
+393,4,26,  graduate  ,-0.391
+394,57,37,college,0.963
+395,19,34,college,0.473
+396,31,38,high_school,-2.835
+397,71,48,COLLEGE,-0.212
+398,63,60,some_college,0.282
+399,39,35,college,-0.211
+400,64,47,COLLEGE,1.534
+401,43,32,college,0.532
+402,12,25,high_school,-2.48
+403,25,48,high_school,0.834
+404,69,40,graduate,0.512
+405,76,26,college,1.116
+406,56,39,college,0.735
+407,47,50,COLLEGE,-0.697
+408,8,53,graduate,0.206
+409,54,56,high_school,0.906
+410,4,47,college,-0.65
+411,32,54,graduate,-0.649
+412,59,39,high_school,-2.16
+413,41,28,some_college,1.599
+414,4,37,high_school,-0.961
+415,10,36,college,-2.392
+416,43,41,college,0.668
+417,25,58,college,-0.828
+418,31,31,SOME_COLLEGE,0.355
+419,77,27,high_school,0.559
+420,58,60,college,0.718
+421,52,40,  some_college  ,1.22
+422,26,56,some_college,-0.081
+423,57,48,graduate,1.03
+424,44,25,graduate,0.721
+425,71,28,high_school,0.047
+426,24,32,SOME_COLLEGE,-0.182
+427,42,36,some_college,-0.619
+428,62,53,college,1.104
+429,35,32,high_school,-0.873
+430,20,33,college,3.305
+431,52,43,some_college,1.272
+432,9,36,some_college,-0.922
+433,21,35,high_school,-0.286
+434,30,36,college,-0.845
+435,65,37,college,-0.956
+436,34,28,college,0.662
+437,19,54,high_school,1.49
+438,56,41,graduate,0.376
+439,12,46,  college  ,-0.922
+440,61,37,  graduate  ,0.9
+441,66,38,high_school,-0.471
+442,27,34,college,-0.177
+443,49,42,college,0.019
+444,33,39,  college  ,0.747
+445,38,59,some_college,-1.077
+446,72,39,some_college,0.482
+447,49,60,high_school,0.571
+448,5,39,HIGH_SCHOOL,0.329
+449,70,33,high_school,0.619
+450,54,56,college,-1.601
+451,17,28,  graduate  ,1.46
+452,17,37,high_school,1.845
+453,40,46,college,-0.955
+454,63,51,graduate,-0.413
+455,72,53,college,-1.008
+456,64,31,college,1.337
+457,43,47,HIGH_SCHOOL,1.002
+458,5,39,some_college,-1.68
+459,72,41,high_school,-0.906
+460,16,43,COLLEGE,1.605
+461,56,54,high_school,1.012
+462,53,51,graduate,1.522
+463,18,35,  graduate  ,-0.12
+464,11,29,HIGH_SCHOOL,-0.378
+465,56,49,college,0.031
+466,13,28,college,-0.931
+467,11,28,high_school,-1.156
+468,24,46,COLLEGE,0.31
+469,8,34,COLLEGE,0.04
+470,61,45,some_college,-0.916
+471,49,60,COLLEGE,0.052
+472,8,47,graduate,0.024
+473,33,30,college,1.309
+474,28,33,HIGH_SCHOOL,0.34
+475,54,26,some_college,-0.203
+476,9,36,graduate,0.139
+477,67,44,  some_college  ,-0.477
+478,46,45,high_school,-1.858
+479,25,57,high_school,0.297
+480,59,31,high_school,1.082
+481,69,44,college,0.82
+482,62,39,graduate,-0.394
+483,70,51,college,0.038
+484,34,48,college,-0.464
+485,21,44,some_college,0.017
+486,1,59,SOME_COLLEGE,0.813
+487,32,40,some_college,0.48
+488,34,29,college,-1.326
+489,27,47,some_college,-1.264
+490,14,52,SOME_COLLEGE,-1.13
+491,63,52,high_school,-0.053
+492,15,27,graduate,0.041
+493,31,53,college,0.947
+494,18,54,graduate,-3.245
+495,35,60,graduate,0.403
+496,19,31,  some_college  ,0.69
+497,29,56,  graduate  ,0.543
+498,74,34,college,-0.183
+499,4,34,college,-1.472
+500,61,44,graduate,1.885
+501,38,51,graduate,0.541
+502,17,57,  COLLEGE  ,0.734
+503,43,31,some_college,-0.263
+504,9,28,some_college,-0.87
+505,51,45,SOME_COLLEGE,-0.668
+506,25,46,high_school,0.793
+507,2,60,college,-0.106
+508,28,30,graduate,-0.347
+509,28,29,college,2.056
+510,74,54,graduate,0.49
+511,52,53,graduate,0.642
+512,63,36,college,1.087
+513,67,34,college,-1.586
+514,23,49,college,-0.495
+515,43,52,college,0.332
+516,46,52,high_school,-0.606
+517,6,36,college,-1.317
+518,48,25,some_college,0.695
+519,23,59,college,-0.202
+520,25,57,college,0.349
+521,3,37,college,-1.014
+522,32,45,some_college,-0.909
+523,58,35,HIGH_SCHOOL,0.661
+524,75,27,college,1.746
+525,72,54,some_college,-0.226
+526,2,38,some_college,-0.423
+527,14,25,college,-1.107
+528,79,32,high_school,-1.702
+529,15,46,high_school,-0.121
+530,61,30,some_college,-0.41
+531,64,32,college,1.285
+532,55,30,some_college,-1.079
+533,73,58,high_school,-1.039
+534,36,51,college,-0.554
+535,54,43,  COLLEGE  ,0.568
+536,67,37,college,0.497
+537,53,56,graduate,0.454
+538,41,27,college,1.268
+539,64,51,graduate,-0.45
+540,56,38,high_school,-1.473
+541,4,49,some_college,0.118
+542,37,32,high_school,0.874
+543,5,36,college,-0.063
+544,68,46,college,2.029
+545,16,60,college,1.066
+546,16,40,high_school,0.732
+547,33,43,graduate,0.812
+548,43,44,some_college,-0.651
+549,37,46,college,-0.409
+550,26,50,some_college,0.357
+551,54,57,some_college,-0.306
+552,20,39,some_college,1.093
+553,53,38,graduate,1.557
+554,16,57,COLLEGE,-0.587
+555,6,31,college,1.871
+556,78,42,high_school,1.227
+557,27,46,graduate,-0.233
+558,38,54,graduate,1.93
+559,43,26,graduate,1.655
+560,46,28,high_school,0.134
+561,80,53,high_school,0.563
+562,11,43,high_school,-0.865
+563,69,54,college,2.157
+564,26,43,high_school,1.254
+565,62,59,HIGH_SCHOOL,0.472
+566,31,56,some_college,0.041
+567,49,52,high_school,-0.032
+568,30,28,high_school,0.656
+569,49,39,college,-2.643
+570,27,48,graduate,-0.986
+571,3,45,HIGH_SCHOOL,0.296
+572,50,58,graduate,0.692
+573,8,35,  college  ,0.775
+574,49,26,  college  ,0.845
+575,28,56,college,0.663
+576,27,41,  COLLEGE  ,-0.931
+577,33,34,SOME_COLLEGE,1.291
+578,26,34,high_school,-0.727
+579,36,34,some_college,-1.102
+580,56,52,HIGH_SCHOOL,0.8
+581,42,54,some_college,0.672
+582,41,49,some_college,-0.393
+583,68,60,high_school,-0.054
+584,10,50,high_school,-0.207
+585,72,32,  high_school  ,-1.366
+586,73,58,college,-0.036
+587,1,60,some_college,0.252
+588,56,56,  graduate  ,0.126
+589,63,49,college,0.183
+590,42,43,high_school,-0.498
+591,35,45,high_school,-0.075
+592,24,52,college,0.467
+593,76,32,college,1.113
+594,12,48,  college  ,-0.336
+595,75,38,  HIGH_SCHOOL  ,0.568
+596,79,28,college,-2.447
+597,13,40,graduate,-0.251
+598,57,41,college,0.944
+599,36,52,  some_college  ,0.546
+600,20,42,high_school,0.572
+601,32,57,high_school,-0.551
+602,26,55,college,-0.308
+603,26,30,COLLEGE,0.119
+604,41,31,college,0.447
+605,66,34,some_college,-0.439
+606,72,27,graduate,-0.001
+607,23,29,college,-1.025
+608,27,59,college,0.104
+609,59,52,COLLEGE,1.226
+610,27,47,HIGH_SCHOOL,0.408
+611,1,49,some_college,1.162
+612,57,50,high_school,-0.352
+613,70,41,college,0.28
+614,35,60,high_school,0.82
+615,48,37,college,0.234
+616,25,49,some_college,-1.66
+617,70,50,some_college,-1.274
+618,17,29,  graduate  ,-0.651
+619,72,42,graduate,0.315
+620,2,60,college,-1.906
+621,6,55,SOME_COLLEGE,0.067
+622,51,41,  HIGH_SCHOOL  ,0.083
+623,20,50,college,0.82
+624,14,29,college,0.231
+625,59,28,high_school,-0.085
+626,23,58,high_school,0.755
+627,64,51,college,0.418
+628,7,42,high_school,0.045
+629,31,29,some_college,1.697
+630,14,50,  college  ,0.377
+631,73,41,some_college,-0.636
+632,65,53,graduate,-0.486
+633,29,53,COLLEGE,-0.503
+634,67,40,graduate,0.451
+635,17,55,college,0.219
+636,14,36,college,-0.382
+637,71,40,college,0.425
+638,38,54,high_school,-0.773
+639,49,60,  GRADUATE  ,0.04
+640,18,25,GRADUATE,-0.747
+641,51,54,high_school,2.209
+642,39,35,college,-0.467
+643,46,35,college,0.444
+644,60,45,SOME_COLLEGE,-0.534
+645,14,60,high_school,-0.291
+646,36,36,graduate,-0.098
+647,34,51,college,1.087
+648,72,26,some_college,0.218
+649,49,39,college,0.336
+650,17,57,college,0.721
+651,73,59,  college  ,-1.142
+652,66,30,college,0.732
+653,52,27,high_school,-2.371
+654,19,52,high_school,-0.477
+655,42,29,  high_school  ,1.118
+656,35,34,some_college,-0.656
+657,18,56,high_school,1.208
+658,39,46,HIGH_SCHOOL,-0.886
+659,32,41,college,0.621
+660,73,58,high_school,-0.202
+661,31,53,some_college,1.079
+662,65,29,graduate,-0.571
+663,7,51,college,-0.359
+664,78,58,college,0.715
+665,55,30,college,-1.273
+666,77,45,HIGH_SCHOOL,1.282
+667,11,37,college,0.803
+668,25,38,HIGH_SCHOOL,-0.764
+669,63,48,high_school,0.431
+670,63,51,graduate,0.207
+671,34,54,college,0.879
+672,61,38,college,-0.154
+673,73,36,  high_school  ,1.302
+674,50,53,high_school,0.534
+675,40,44,high_school,-0.624
+676,12,37,GRADUATE,-0.837
+677,30,51,some_college,-1.061
+678,2,27,COLLEGE,0.814
+679,18,58,  high_school  ,0.475
+680,44,40,graduate,-1.065
+681,60,57,some_college,-1.459
+682,74,57,college,-1.409
+683,22,58,high_school,-0.011
+684,69,48,college,2.113
+685,20,26,high_school,0.505
+686,46,58,college,1.966
+687,12,35,some_college,0.494
+688,20,44,some_college,-1.538
+689,54,48,graduate,0.944
+690,28,55,some_college,-1.596
+691,10,43,college,1.925
+692,60,48,college,-0.045
+693,43,52,college,-0.334
+694,14,36,college,-0.124
+695,31,38,graduate,-0.299
+696,51,29,college,-0.54
+697,10,45,some_college,-0.467
+698,14,51,  some_college  ,-1.156
+699,11,33,college,1.297
+700,6,56,college,-0.302
+701,28,29,high_school,0.819
+702,32,29,college,1.25
+703,47,44,college,1.121
+704,60,25,  college  ,-0.723
+705,67,29,high_school,-0.171
+706,20,41,some_college,0.467
+707,30,43,college,-0.021
+708,60,41,high_school,-0.028
+709,1,29,graduate,1.084
+710,1,34,GRADUATE,0.715
+711,69,58,graduate,-0.09
+712,4,54,college,0.316
+713,19,48,college,0.028
+714,66,40,some_college,-0.108
+715,67,43,graduate,1.169
+716,49,35,some_college,-0.458
+717,55,30,graduate,-0.288
+718,12,33,  graduate  ,-1.017
+719,76,47,some_college,0.992
+720,45,34,  college  ,1.755
+721,1,29,high_school,0.827
+722,31,33,  some_college  ,1.012
+723,11,49,college,-0.415
+724,75,57,graduate,-0.804
+725,24,46,  some_college  ,-1.265
+726,74,43,college,0.188
+727,51,52,college,-0.708
+728,24,30,some_college,-0.663
+729,29,48,high_school,-1.513
+730,50,26,graduate,-0.878
+731,53,40,  high_school  ,0.923
+732,53,48,high_school,0.666
+733,18,25,SOME_COLLEGE,-1.287
+734,51,31,college,1.008
+735,25,35,graduate,-0.288
+736,33,39,some_college,-0.264
+737,31,60,college,0.036
+738,6,45,college,0.117
+739,46,28,some_college,1.007
+740,7,60,graduate,-0.594
+741,78,43,high_school,1.649
+742,37,55,some_college,0.023
+743,38,53,graduate,-1.913
+744,57,37,college,-0.511
+745,71,33,some_college,0.108
+746,37,59,  high_school  ,-0.009
+747,73,50,SOME_COLLEGE,1.865
+748,51,39,HIGH_SCHOOL,0.796
+749,39,27,some_college,-0.888
+750,31,40,college,0.795
+751,6,33,some_college,-0.554
+752,54,38,COLLEGE,-0.857
+753,75,48,high_school,0.816
+754,51,50,COLLEGE,0.559
+755,9,49,high_school,-1.667
+756,60,44,  some_college  ,-0.029
+757,29,34,graduate,0.928
+758,24,56,college,-0.633
+759,4,50,high_school,-0.379
+760,80,53,some_college,1.343
+761,67,35,high_school,-1.427
+762,35,37,some_college,-0.907
+763,61,33,some_college,0.106
+764,27,28,graduate,0.784
+765,1,52,  SOME_COLLEGE  ,-0.292
+766,19,33,college,0.867
+767,33,51,college,-0.936
+768,1,25,HIGH_SCHOOL,-0.695
+769,29,47,college,-0.804
+770,29,45,graduate,1.077
+771,12,35,  COLLEGE  ,0.186
+772,9,40,college,-1.006
+773,67,39,high_school,-0.178
+774,12,47,college,0.191
+775,58,46,graduate,0.608
+776,74,39,  college  ,-0.113
+777,18,25,high_school,1.422
+778,48,52,college,-2.128
+779,40,37,graduate,-1.318
+780,30,59,high_school,1.484
+781,38,43,  some_college  ,-0.616
+782,26,50,  college  ,-0.109
+783,55,59,graduate,-2.046
+784,27,53,some_college,-0.049
+785,79,32,some_college,0.451
+786,70,60,college,-0.442
+787,75,29,some_college,-0.376
+788,73,45,graduate,1.234
+789,71,58,high_school,-0.869
+790,49,47,some_college,1.167
+791,74,33,graduate,-2.202
+792,68,40,  college  ,-1.521
+793,73,51,  college  ,-0.094
+794,5,28,college,-0.675
+795,29,42,college,0.048
+796,27,40,  college  ,-0.778
+797,49,60,COLLEGE,-2.342
+798,17,40,graduate,-0.298
+799,54,37,high_school,-0.716
+800,7,26,COLLEGE,0.565
+801,49,57,college,-0.669
+802,36,39,some_college,2.594
+803,71,37,college,-0.514
+804,39,30,graduate,1.607
+805,66,41,high_school,-0.953
+806,23,31,HIGH_SCHOOL,0.419
+807,72,36,college,2.01
+808,55,50,some_college,-0.461
+809,35,43,some_college,-1.187
+810,37,45,COLLEGE,0.67
+811,25,44,college,-0.376
+812,77,50,college,-0.359
+813,66,34,graduate,0.305
+814,53,56,college,-0.285
+815,60,51,graduate,0.306
+816,34,44,some_college,0.269
+817,67,26,high_school,-1.376
+818,31,26,some_college,2.761
+819,41,45,college,-0.717
+820,46,53,high_school,-1.639
+821,51,25,college,0.169
+822,71,28,college,-0.513
+823,59,29,some_college,0.445
+824,71,31,high_school,0.13
+825,3,40,some_college,1.398
+826,59,54,college,0.958
+827,51,47,high_school,-0.429
+828,41,45,high_school,-0.56
+829,45,44,college,-0.167
+830,77,40,college,1.324
+831,61,49,some_college,0.595
+832,16,33,graduate,-2.098
+833,35,51,college,2.292
+834,39,42,high_school,0.897
+835,63,57,graduate,0.777
+836,43,30,  college  ,1.629
+837,18,38,college,-0.344
+838,65,28,some_college,-2.18
+839,60,52,high_school,-0.398
+840,32,45,high_school,-0.669
+841,52,28,college,1.078
+842,31,47,college,-1.017
+843,76,31,some_college,0.148
+844,35,27,graduate,0.591
+845,9,49,high_school,-0.057
+846,77,52,college,-2.329
+847,67,58,COLLEGE,-0.022
+848,21,51,high_school,0.025
+849,59,27,college,0.991
+850,22,33,graduate,-0.603
+851,79,38,HIGH_SCHOOL,2.155
+852,63,57,high_school,-0.68
+853,37,26,graduate,0.547
+854,70,33,graduate,0.727
+855,29,56,some_college,0.939
+856,45,48,  high_school  ,0.672
+857,51,32,college,-0.914
+858,58,30,SOME_COLLEGE,0.96
+859,20,27,graduate,-1.346
+860,15,32,some_college,-0.987
+861,40,33,COLLEGE,0.223
+862,31,56,high_school,-0.343
+863,14,47,college,-0.609
+864,75,39,  high_school  ,1.498
+865,75,31,high_school,-0.722
+866,8,42,some_college,0.547
+867,3,60,graduate,-0.843
+868,74,43,high_school,-0.854
+869,57,47,college,-0.807
+870,54,45,high_school,-1.422
+871,53,46,high_school,-1.404
+872,42,31,high_school,-0.308
+873,53,29,COLLEGE,0.565
+874,71,33,some_college,0.496
+875,36,42,some_college,0.727
+876,60,48,some_college,-0.26
+877,55,39,college,0.846
+878,49,30,high_school,-0.29
+879,64,56,  some_college  ,2.214
+880,74,25,college,-1.077
+881,50,39,some_college,-0.205
+882,18,30,college,-0.722
+883,52,39,  college  ,1.154
+884,19,38,COLLEGE,1.859
+885,49,47,college,0.007
+886,72,36,SOME_COLLEGE,0.416
+887,72,42,some_college,0.394
+888,23,32,high_school,-0.505
+889,80,57,HIGH_SCHOOL,-1.234
+890,38,43,college,0.139
+891,6,34,some_college,-0.049
+892,43,25,some_college,-0.008
+893,7,48,some_college,0.805
+894,46,30,  high_school  ,-0.375
+895,53,57,high_school,-0.8
+896,65,33,COLLEGE,-0.108
+897,30,41,COLLEGE,0.768
+898,6,37,college,0.054
+899,23,38,high_school,-0.352
+900,41,59,college,-1.009
+901,6,56,high_school,-0.035
+902,28,48,high_school,-0.155
+903,1,49,HIGH_SCHOOL,-0.061
+904,77,40,high_school,0.328
+905,58,28,college,-1.527
+906,50,42,  college  ,-0.678
+907,73,46,college,1.572
+908,10,46,college,-0.025
+909,77,42,some_college,-1.335
+910,53,54,COLLEGE,0.612
+911,43,29,GRADUATE,-0.287
+912,74,52,some_college,-2.659
+913,48,44,  COLLEGE  ,-0.479
+914,26,55,  some_college  ,-0.316
+915,62,37,high_school,-0.26
+916,54,35,SOME_COLLEGE,0.745
+917,64,49,  COLLEGE  ,-0.122
+918,70,30,some_college,0.684
+919,29,57,graduate,-1.006
+920,61,58,high_school,-0.906
+921,13,41,college,-1.142
+922,21,57,graduate,1.086
+923,33,41,college,1.303
+924,80,50,some_college,0.059
+925,66,47,graduate,-0.199
+926,39,42,high_school,-0.895
+927,62,37,COLLEGE,0.835
+928,21,51,some_college,-0.923
+929,6,43,some_college,0.072
+930,20,55,graduate,1.571
+931,57,46,high_school,0.264
+932,51,29,college,0.911
+933,22,51,some_college,-0.96
+934,23,58,  college  ,-1.056
+935,43,50,COLLEGE,0.312
+936,52,50,  graduate  ,-0.645
+937,3,50,college,-0.56
+938,26,57,some_college,0.881
+939,72,25,high_school,0.704
+940,65,25,college,0.65
+941,65,58,high_school,0.962
+942,44,59,some_college,-0.621
+943,52,33,  some_college  ,1.13
+944,39,55,graduate,-0.557
+945,22,45,some_college,-0.382
+946,17,28,graduate,2.317
+947,8,59,high_school,-1.646
+948,60,54,college,-0.411
+949,24,48,  high_school  ,-1.186
+950,55,42,graduate,1.198
+951,9,31,COLLEGE,1.178
+952,16,25,  some_college  ,-0.599
+953,20,58,some_college,-0.065
+954,25,60,SOME_COLLEGE,-0.049
+955,14,48,college,0.01
+956,54,55,college,-0.844
+957,44,39,high_school,-0.026
+958,6,28,college,0.613
+959,37,46,high_school,0.6
+960,48,27,college,-1.218
+961,73,41,high_school,0.621
+962,1,35,some_college,-0.81
+963,54,35,some_college,0.446
+964,70,49,  college  ,-0.74
+965,30,26,SOME_COLLEGE,-0.662
+966,19,51,HIGH_SCHOOL,-0.981
+967,18,26,high_school,0.538
+968,14,51,graduate,-2.252
+969,72,31,graduate,0.534
+970,48,41,some_college,-0.51
+971,4,49,high_school,-0.554
+972,50,33,college,0.326
+973,78,60,graduate,0.841
+974,58,38,high_school,0.549
+975,10,31,graduate,-0.588
+976,79,40,college,-0.217
+977,53,43,COLLEGE,-1.016
+978,28,26,high_school,0.204
+979,37,55,COLLEGE,0.129
+980,62,47,high_school,-0.014
+981,38,58,  some_college  ,-0.458
+982,52,57,high_school,-0.102
+983,66,38,graduate,-1.506
+984,70,27,some_college,0.312
+985,41,48,graduate,1.67
+986,22,53,HIGH_SCHOOL,-1.18
+987,11,54,college,0.078
+988,40,32,high_school,-0.834
+989,27,54,college,0.624
+990,28,30,high_school,0.644
+991,26,43,high_school,0.315
+992,7,57,high_school,0.469
+993,35,51,  college  ,-0.573
+994,57,43,college,-1.839
+995,77,39,graduate,-2.271
+996,61,27,COLLEGE,0.364
+997,29,60,some_college,-0.819
+998,67,47,  college  ,2.44
+999,36,55,some_college,0.482
+1000,8,46,some_college,-1.298
+1001,46,32,some_college,-0.233
+1002,49,40,some_college,1.685
+1003,50,49,some_college,-1.015
+1004,32,60,college,0.13
+1005,36,42,high_school,0.402
+1006,5,54,college,-0.296
+1007,73,51,college,1.342
+1008,74,28,  high_school  ,-0.665
+1009,59,31,high_school,-0.08
+1010,12,35,  college  ,0.656
+1011,17,45,some_college,-0.028
+1012,14,55,  high_school  ,-0.826
+1013,69,46,  some_college  ,2.561
+1014,17,54,college,1.898
+1015,7,49,college,-2.886
+1016,74,60,high_school,0.222
+1017,70,31,high_school,-0.64
+1018,26,38,  college  ,0.042
+1019,12,46,graduate,0.322
+1020,70,34,high_school,-0.522
+1021,50,45,college,-0.025
+1022,14,30,college,-0.015
+1023,80,54,COLLEGE,-0.588
+1024,9,52,some_college,-1.43
+1025,42,31,SOME_COLLEGE,-0.986
+1026,11,40,college,0.425
+1027,2,58,high_school,-0.037
+1028,11,43,COLLEGE,-0.618
+1029,23,36,  COLLEGE  ,0.213
+1030,18,31,some_college,0.443
+1031,14,57,college,0.211
+1032,32,42,some_college,0.903
+1033,43,55,COLLEGE,-0.971
+1034,19,54,some_college,-0.151
+1035,44,32,high_school,-1.18
+1036,48,45,high_school,-1.373
+1037,31,53,some_college,-0.591
+1038,25,50,high_school,-0.982
+1039,2,51,college,0.86
+1040,62,42,some_college,-0.547
+1041,70,29,graduate,-0.262
+1042,4,30,graduate,-1.527
+1043,73,41,college,0.631
+1044,75,43,high_school,0.011
+1045,44,47,some_college,-0.489
+1046,68,58,college,0.237
+1047,3,26,some_college,-0.229
+1048,53,41,college,-0.916
+1049,20,52,  some_college  ,0.318
+1050,77,51,HIGH_SCHOOL,-0.433
+1051,30,26,  graduate  ,-1.333
+1052,4,45,  high_school  ,0.378
+1053,25,43,graduate,0.703
+1054,19,28,high_school,-0.791
+1055,48,54,college,1.327
+1056,9,40,  college  ,-1.669
+1057,70,49,college,0.209
+1058,53,28,  college  ,1.183
+1059,38,50,high_school,-0.752
+1060,4,29,SOME_COLLEGE,0.437
+1061,67,47,  high_school  ,1.59
+1062,70,35,college,0.058
+1063,63,34,high_school,0.667
+1064,47,30,graduate,0.308
+1065,66,45,HIGH_SCHOOL,-1.381
+1066,26,26,  some_college  ,0.101
+1067,39,55,some_college,0.537
+1068,55,30,graduate,0.204
+1069,66,46,graduate,1.824
+1070,24,25,college,-0.616
+1071,57,38,graduate,0.098
+1072,62,27,college,-1.865
+1073,47,38,high_school,-0.185
+1074,54,39,high_school,0.304
+1075,4,60,HIGH_SCHOOL,1.7
+1076,74,29,  some_college  ,-0.636
+1077,66,39,college,-0.321
+1078,68,44,some_college,0.576
+1079,79,26,college,2.175
+1080,71,34,HIGH_SCHOOL,0.104
+1081,42,35,high_school,0.89
+1082,21,26,graduate,-0.697
+1083,30,38,high_school,-0.647
+1084,69,32,some_college,-1.413
+1085,16,26,some_college,0.388
+1086,70,48,some_college,-0.623
+1087,38,34,some_college,-0.678
+1088,40,60,college,-0.245
+1089,63,53,some_college,-0.125
+1090,77,34,college,-0.012
+1091,62,49,college,0.262
+1092,66,49,some_college,0.382
+1093,49,53,COLLEGE,0.433
+1094,25,30,college,0.814
+1095,46,44,some_college,-0.129
+1096,68,28,some_college,0.586
+1097,27,31,SOME_COLLEGE,-0.651
+1098,74,39,graduate,0.407
+1099,15,41,some_college,-0.102
+1100,10,48,some_college,1.739
+1101,12,38,college,-0.139
+1102,23,42,high_school,0.201
+1103,24,49,some_college,0.955
+1104,50,46,some_college,0.995
+1105,14,40,college,0.996
+1106,21,27,COLLEGE,0.572
+1107,36,40,graduate,-0.554
+1108,28,40,college,0.252
+1109,41,38,some_college,1.041
+1110,46,35,SOME_COLLEGE,0.866
+1111,63,58,graduate,-0.901
+1112,63,42,some_college,-0.554
+1113,72,29,college,0.334
+1114,27,41,some_college,-0.003
+1115,30,32,graduate,-1.428
+1116,60,32,some_college,-0.121
+1117,73,33,high_school,-0.683
+1118,56,25,high_school,1.333
+1119,32,44,  high_school  ,0.142
+1120,51,42,high_school,-0.758
+1121,71,29,high_school,-0.773
+1122,28,55,  college  ,1.162
+1123,51,54,college,-0.078
+1124,62,36,high_school,0.597
+1125,50,43,some_college,0.749
+1126,58,47,high_school,0.144
+1127,1,54,some_college,2.212
+1128,39,42,graduate,-0.162
+1129,60,44,high_school,0.6
+1130,30,47,college,-0.658
+1131,59,40,GRADUATE,-1.501
+1132,33,45,  HIGH_SCHOOL  ,-0.247
+1133,41,57,HIGH_SCHOOL,-0.028
+1134,45,28,some_college,0.222
+1135,74,36,graduate,-0.573
+1136,74,46,graduate,0.183
+1137,50,27,college,-0.335
+1138,4,42,college,0.164
+1139,50,51,college,-1.412
+1140,64,43,high_school,0.055
+1141,31,30,graduate,1.469
+1142,71,58,GRADUATE,1.615
+1143,44,25,high_school,0.861
+1144,5,58,some_college,0.298
+1145,64,54,high_school,2.117
+1146,8,31,COLLEGE,0.027
+1147,43,29,  high_school  ,-0.319
+1148,13,54,high_school,1.211
+1149,31,25,  some_college  ,0.163
+1150,61,56,college,1.085
+1151,5,37,  high_school  ,0.186
+1152,54,44,some_college,0.612
+1153,73,60,graduate,-0.553
+1154,80,40,college,-0.372
+1155,26,47,graduate,0.239
+1156,71,43,some_college,-1.148
+1157,78,32,GRADUATE,-0.628
+1158,70,42,some_college,-1.058
+1159,1,50,college,-1.148
+1160,74,44,some_college,-0.271
+1161,42,42,high_school,-0.05
+1162,30,46,college,-0.791
+1163,9,46,  some_college  ,0.634
+1164,45,34,college,0.327
+1165,40,49,graduate,-0.004
+1166,3,52,college,-0.698
+1167,72,34,some_college,0.267
+1168,23,49,high_school,1.163
+1169,33,52,high_school,0.647
+1170,56,30,college,-1.468
+1171,56,40,graduate,0.296
+1172,45,49,college,-0.642
+1173,8,37,high_school,0.633
+1174,36,46,college,0.416
+1175,56,51,some_college,0.016
+1176,48,39,college,-0.439
+1177,44,36,high_school,-0.843
+1178,54,36,high_school,-0.254
+1179,21,44,some_college,-1.202
+1180,45,52,graduate,-0.579
+1181,32,37,some_college,1.148
+1182,17,34,some_college,-1.801
+1183,1,49,graduate,-2.305
+1184,41,43,college,0.427
+1185,70,28,high_school,-1.058
+1186,78,34,HIGH_SCHOOL,-0.981
+1187,10,44,  some_college  ,-0.617
+1188,5,33,college,-1.781
+1189,57,26,high_school,1.677
+1190,79,33,COLLEGE,0.37
+1191,68,56,college,0.37
+1192,42,38,college,-0.112
+1193,15,39,graduate,2.129
+1194,58,44,some_college,1.126
+1195,75,54,graduate,-1.415
+1196,40,41,graduate,-2.771
+1197,61,45,graduate,-0.124
+1198,44,34,college,-0.218
+1199,49,25,college,-2.737
+1200,69,30,  HIGH_SCHOOL  ,-0.936
+1201,46,33,college,1.437
+1202,8,42,high_school,-0.767
+1203,27,38,college,-0.207
+1204,47,49,college,-0.294
+1205,36,60,high_school,1.1
+1206,57,36,HIGH_SCHOOL,0.56
+1207,73,47,some_college,-0.098
+1208,56,56,  college  ,1.175
+1209,39,28,high_school,0.767
+1210,46,28,college,0.344
+1211,2,28,graduate,0.917
+1212,44,26,college,0.51
+1213,71,41,some_college,1.015
+1214,33,48,some_college,-1.042
+1215,65,51,graduate,0.275
+1216,43,29,graduate,-0.63
+1217,4,42,  college  ,-0.758
+1218,63,47,high_school,-1.437
+1219,52,49,college,0.848
+1220,76,34,high_school,1.442
+1221,39,36,some_college,-0.944
+1222,25,60,college,1.304
+1223,67,47,graduate,-1.277
+1224,78,27,  college  ,-0.046
+1225,5,28,COLLEGE,-1.406
+1226,69,57,high_school,-1.494
+1227,33,39,HIGH_SCHOOL,-0.838
+1228,10,36,HIGH_SCHOOL,0.813
+1229,78,42,  high_school  ,-1.9
+1230,33,57,graduate,0.493
+1231,68,36,college,-1.821
+1232,64,31,college,-0.525
+1233,33,41,college,-0.551
+1234,69,51,graduate,0.774
+1235,25,26,college,1.296
+1236,41,44,college,-2.092
+1237,17,59,college,-1.196
+1238,48,44,graduate,-0.425
+1239,64,56,graduate,-0.324
+1240,14,31,COLLEGE,-1.009
+1241,47,41,COLLEGE,2.08
+1242,26,51,some_college,-1.774
+1243,70,50,graduate,1.343
+1244,68,46,graduate,-0.148
+1245,72,56,high_school,0.523
+1246,21,58,graduate,0.108
+1247,61,42,college,1.057
+1248,63,31,college,0.057
+1249,3,25,high_school,-0.24
+1250,7,55,college,0.325
+1251,18,44,high_school,1.157
+1252,32,26,college,-0.491
+1253,52,34,some_college,-0.838
+1254,67,51,some_college,-0.735
+1255,13,56,  graduate  ,-0.819
+1256,25,58,  SOME_COLLEGE  ,-0.806
+1257,16,52,some_college,-1.202
+1258,77,57,college,0.507
+1259,70,33,GRADUATE,-1.714
+1260,66,56,college,0.641
+1261,56,39,some_college,-0.39
+1262,36,27,some_college,-1.256
+1263,20,30,some_college,-0.431
+1264,32,29,college,0.679
+1265,22,45,  college  ,-2.189
+1266,10,49,college,0.823
+1267,33,26,SOME_COLLEGE,0.758
+1268,70,38,college,2.739
+1269,16,44,graduate,0.387
+1270,59,33,graduate,-0.045
+1271,11,26,graduate,-0.885
+1272,11,31,some_college,-0.153
+1273,54,36,GRADUATE,0.032
+1274,19,52,graduate,0.036
+1275,39,30,high_school,0.06
+1276,3,26,high_school,-0.992
+1277,75,33,SOME_COLLEGE,0.394
+1278,32,32,college,-1.267
+1279,70,60,high_school,1.528
+1280,26,31,graduate,0.514
+1281,4,49,college,0.219
+1282,62,37,high_school,0.942
+1283,51,38,GRADUATE,1.892
+1284,51,43,  college  ,0.46
+1285,33,43,  some_college  ,-0.359
+1286,28,36,some_college,0.064
+1287,20,27,high_school,-0.34
+1288,10,53,college,1.203
+1289,19,35,college,-1.023
+1290,56,49,  college  ,1.388
+1291,8,41,high_school,0.732
+1292,30,60,college,-1.009
+1293,59,47,  some_college  ,-0.671
+1294,68,37,college,0.491
+1295,21,55,COLLEGE,-1.979
+1296,80,35,some_college,0.313
+1297,8,28,college,-1.644
+1298,68,29,college,0.16
+1299,20,38,some_college,0.429
+1300,80,57,COLLEGE,0.517
+1301,44,49,high_school,-0.411
+1302,34,38,  some_college  ,-0.117
+1303,73,33,college,1.121
+1304,51,28,college,-0.707
+1305,10,51,COLLEGE,0.387
+1306,42,42,high_school,-1.326
+1307,11,54,college,-1.299
+1308,4,29,  high_school  ,-0.294
+1309,6,42,high_school,0.938
+1310,71,46,college,-0.873
+1311,63,31,COLLEGE,-0.191
+1312,2,44,college,0.217
+1313,14,56,college,-0.168
+1314,29,35,high_school,-1.236
+1315,35,59,some_college,-0.648
+1316,38,33,high_school,0.354
+1317,41,42,high_school,-1.836
+1318,40,55,  college  ,-0.183
+1319,27,49,COLLEGE,0.961
+1320,76,29,high_school,0.694
+1321,3,42,some_college,2.242
+1322,6,58,graduate,1.33
+1323,39,29,some_college,-0.866
+1324,79,42,COLLEGE,-0.876
+1325,66,27,high_school,0.321
+1326,14,57,college,1.141
+1327,69,60,some_college,-0.226
+1328,70,47,graduate,-2.15
+1329,79,46,  college  ,-1.292
+1330,17,27,high_school,0.062
+1331,67,54,college,-1.03
+1332,4,31,college,1.604
+1333,51,28,graduate,0.947
+1334,36,56,college,0.53
+1335,32,32,some_college,-1.758
+1336,29,33,college,0.338
+1337,26,44,some_college,0.472
+1338,70,54,some_college,-1.226
+1339,61,37,COLLEGE,-1.348
+1340,59,25,GRADUATE,-0.539
+1341,61,46,COLLEGE,0.202
+1342,17,56,college,-0.316
+1343,11,49,  college  ,-0.636
+1344,22,52,  COLLEGE  ,1.327
+1345,11,45,COLLEGE,0.63
+1346,52,25,college,-0.301
+1347,79,28,college,-0.815
+1348,1,33,graduate,0.111
+1349,12,51,college,-2.756
+1350,12,39,college,0.538
+1351,15,49,high_school,-0.527
+1352,14,38,some_college,0.265
+1353,15,53,SOME_COLLEGE,1.577
+1354,9,49,college,-0.868
+1355,75,48,some_college,-0.473
+1356,52,35,some_college,-0.994
+1357,16,58,some_college,-0.36
+1358,27,33,college,-1.257
+1359,58,35,COLLEGE,0.175
+1360,54,39,college,0.868
+1361,67,28,high_school,0.725
+1362,77,43,graduate,-0.232
+1363,79,45,  HIGH_SCHOOL  ,-1.024
+1364,72,36,some_college,-1.004
+1365,68,25,some_college,-0.787
+1366,31,48,some_college,-0.916
+1367,39,48,some_college,0.75
+1368,66,50,high_school,-0.293
+1369,28,57,graduate,4.018
+1370,63,54,college,0.259
+1371,46,60,college,0.913
+1372,79,37,SOME_COLLEGE,0.895
+1373,8,29,some_college,-0.398
+1374,21,50,some_college,-0.604
+1375,29,53,SOME_COLLEGE,-0.886
+1376,74,41,  some_college  ,1.177
+1377,47,46,some_college,-1.434
+1378,49,36,  high_school  ,-0.429
+1379,15,43,high_school,0.664
+1380,23,49,high_school,1.129
+1381,72,49,high_school,-2.385
+1382,56,41,high_school,-0.691
+1383,31,57,some_college,0.045
+1384,57,35,  high_school  ,1.686
+1385,28,36,college,-1.36
+1386,52,38,college,-0.075
+1387,26,55,high_school,0.544
+1388,15,33,some_college,1.955
+1389,13,35,high_school,-0.211
+1390,59,25,  high_school  ,-1.719
+1391,43,37,  graduate  ,-0.329
+1392,49,58,high_school,0.504
+1393,17,55,college,-0.607
+1394,14,44,college,-0.833
+1395,7,35,some_college,0.362
+1396,67,34,  college  ,1.944
+1397,35,27,GRADUATE,-0.594
+1398,64,60,graduate,0.605
+1399,4,43,high_school,0.128
+1400,19,48,some_college,0.664
+1401,42,53,college,0.726
+1402,7,32,graduate,-0.025
+1403,59,26,high_school,-0.018
+1404,43,41,graduate,-1.324
+1405,50,45,college,-0.184
+1406,46,39,some_college,-0.141
+1407,58,37,college,0.544
+1408,36,58,high_school,-1.28
+1409,39,29,college,-1.04
+1410,42,37,some_college,-1.292
+1411,38,36,GRADUATE,0.911
+1412,1,38,college,1.352
+1413,78,36,college,-0.927
+1414,75,44,graduate,2.535
+1415,3,56,HIGH_SCHOOL,-0.416
+1416,56,25,some_college,-0.059
+1417,37,31,HIGH_SCHOOL,-0.435
+1418,77,56,college,3.1
+1419,80,59,high_school,0.298
+1420,10,28,high_school,0.157
+1421,47,27,  graduate  ,0.973
+1422,54,58,college,-0.16
+1423,73,46,some_college,2.666
+1424,70,44,high_school,-0.684
+1425,31,26,college,0.579
+1426,51,43,graduate,0.378
+1427,39,58,high_school,0.15
+1428,44,46,  high_school  ,-1.51
+1429,52,42,college,-0.268
+1430,37,32,high_school,0.185
+1431,29,38,high_school,0.065
+1432,21,56,high_school,0.183
+1433,8,47,college,0.097
+1434,51,34,some_college,-0.202
+1435,37,52,COLLEGE,0.102
+1436,8,53,graduate,-0.438
+1437,70,54,SOME_COLLEGE,-0.041
+1438,71,33,some_college,1.043
+1439,80,39,graduate,1.214
+1440,78,53,some_college,2.04
+1441,22,31,HIGH_SCHOOL,-1.42
+1442,50,41,high_school,-0.953
+1443,55,37,college,0.596
+1444,76,55,  HIGH_SCHOOL  ,0.688
+1445,31,42,some_college,0.336
+1446,37,60,GRADUATE,-0.36
+1447,33,26,some_college,0.309
+1448,30,27,graduate,-0.374
+1449,39,58,college,0.184
+1450,52,30,some_college,-0.684
+1451,40,42,graduate,-0.11
+1452,79,27,college,0.37
+1453,71,26,graduate,-1.355
+1454,6,39,college,-0.119
+1455,11,26,  high_school  ,0.656
+1456,25,42,some_college,1.494
+1457,53,41,college,-0.035
+1458,40,51,college,2.507
+1459,9,59,high_school,-0.52
+1460,4,50,college,1.522
+1461,14,55,some_college,0.883
+1462,41,39,  some_college  ,0.085
+1463,24,28,graduate,1.39
+1464,7,35,some_college,0.613
+1465,44,49,SOME_COLLEGE,-0.903
+1466,8,54,college,-0.393
+1467,72,25,some_college,-0.143
+1468,2,27,  some_college  ,0.91
+1469,75,28,college,0.965
+1470,37,34,some_college,-0.753
+1471,43,36,college,-0.35
+1472,31,45,high_school,-0.799
+1473,72,37,college,-0.826
+1474,1,43,high_school,0.468
+1475,65,48,graduate,1.389
+1476,63,53,graduate,-0.199
+1477,42,48,some_college,0.903
+1478,29,28,SOME_COLLEGE,-1.259
+1479,45,35,COLLEGE,-0.914
+1480,5,51,college,0.735
+1481,32,58,SOME_COLLEGE,0.479
+1482,47,42,college,-0.17
+1483,68,53,HIGH_SCHOOL,1.542
+1484,71,29,college,0.43
+1485,51,30,some_college,-1.318
+1486,48,49,high_school,0.395
+1487,59,34,COLLEGE,-0.582
+1488,28,25,  college  ,-0.13
+1489,61,60,  college  ,0.671
+1490,21,46,high_school,1.366
+1491,39,42,some_college,1.501
+1492,31,50,graduate,-0.587
+1493,39,46,college,-0.479
+1494,33,43,college,0.736
+1495,27,60,  graduate  ,-0.86
+1496,61,60,some_college,-0.198
+1497,58,60,high_school,-0.04
+1498,73,27,college,0.873
+1499,68,31,high_school,0.67
+1500,57,48,high_school,0.736
+1501,39,25,college,-0.08
+1502,79,52,some_college,-1.355
+1503,33,58,college,-0.171
+1504,65,57,college,0.255
+1505,71,46,college,0.458
+1506,39,39,HIGH_SCHOOL,-0.301
+1507,67,57,  high_school  ,0.207
+1508,17,51,COLLEGE,1.369
+1509,27,34,college,-0.793
+1510,49,52,high_school,-0.367
+1511,69,43,high_school,-1.956
+1512,80,40,college,-0.666
+1513,75,36,some_college,0.625
+1514,44,52,college,-1.796
+1515,20,60,college,0.372
+1516,45,55,college,-0.832
+1517,77,45,graduate,1.974
+1518,42,56,high_school,-2.229
+1519,74,56,graduate,-1.466
+1520,46,41,high_school,-0.184
+1521,60,27,some_college,-0.159
+1522,55,27,college,-0.666
+1523,24,59,college,-0.287
+1524,40,25,some_college,0.992
+1525,74,33,GRADUATE,-0.299
+1526,21,58,COLLEGE,-0.41
+1527,59,52,some_college,-1.081
+1528,4,39,college,0.031
+1529,38,28,high_school,1.817
+1530,60,50,COLLEGE,0.238
+1531,23,29,some_college,0.187
+1532,40,36,high_school,-0.439
+1533,58,42,high_school,0.602
+1534,15,46,college,-0.268
+1535,16,41,college,0.826
+1536,19,33,high_school,-1.119
+1537,47,58,college,-0.632
+1538,26,52,  college  ,0.048
+1539,51,40,some_college,-1.21
+1540,41,54,some_college,-0.915
+1541,69,46,college,-0.478
+1542,36,29,high_school,-0.043
+1543,1,44,high_school,-0.302
+1544,11,51,graduate,-0.569
+1545,34,53,some_college,-0.816
+1546,19,38,college,0.863
+1547,29,53,  high_school  ,0.645
+1548,66,34,some_college,1.426
+1549,45,32,high_school,1.251
+1550,56,50,college,-1.414
+1551,70,37,graduate,-0.986
+1552,47,34,graduate,0.16
+1553,3,27,high_school,-0.212
+1554,43,60,some_college,-0.502
+1555,25,57,  college  ,-1.051
+1556,29,36,some_college,0.762
+1557,46,28,high_school,-0.523
+1558,44,49,graduate,-0.153
+1559,5,27,graduate,-1.399
+1560,47,35,college,1.547
+1561,34,45,high_school,-1.76
+1562,23,25,college,-1.599
+1563,68,38,high_school,0.322
+1564,20,27,college,0.867
+1565,39,31,COLLEGE,-0.784
+1566,22,41,some_college,-0.473
+1567,78,45,  some_college  ,0.182
+1568,24,25,high_school,-1.154
+1569,24,26,COLLEGE,0.689
+1570,10,41,  high_school  ,0.519
+1571,57,38,high_school,-0.177
+1572,48,57,graduate,-0.085
+1573,69,30,college,0.746
+1574,76,56,high_school,-2.172
+1575,64,42,college,-1.179
+1576,80,40,college,-1.14
+1577,16,39,  COLLEGE  ,1.756
+1578,19,36,COLLEGE,1.392
+1579,46,25,high_school,0.684
+1580,72,55,college,0.502
+1581,24,57,high_school,0.71
+1582,49,31,some_college,0.993
+1583,42,30,high_school,0.128
+1584,2,36,  some_college  ,-0.421
+1585,73,26,some_college,-1.736
+1586,48,59,some_college,0.276
+1587,36,58,high_school,1.171
+1588,47,40,graduate,-2.288
+1589,69,46,college,-1.276
+1590,21,55,college,0.235
+1591,17,47,some_college,0.15
+1592,64,27,  college  ,0.417
+1593,65,46,graduate,-0.196
+1594,71,26,college,-0.53
+1595,22,39,graduate,-0.656
+1596,51,28,  graduate  ,-0.618
+1597,26,44,high_school,0.677
+1598,33,58,  college  ,0.23
+1599,61,53,high_school,-0.674
+1600,7,55,HIGH_SCHOOL,-0.267
+1601,71,57,college,0.557
+1602,77,37,COLLEGE,1.438
+1603,26,46,college,-1.271
+1604,77,30,high_school,0.663
+1605,54,25,HIGH_SCHOOL,0.376
+1606,56,30,high_school,-0.796
+1607,51,40,  college  ,1.242
+1608,74,51,graduate,0.042
+1609,41,57,  graduate  ,0.739
+1610,61,31,high_school,0.737
+1611,48,33,some_college,-0.075
+1612,62,43,some_college,-0.064
+1613,45,57,SOME_COLLEGE,-0.615
+1614,14,42,some_college,-0.727
+1615,80,43,college,1.556
+1616,32,25,college,1.442
+1617,17,33,  some_college  ,-0.107
+1618,4,25,some_college,-0.561
+1619,38,37,some_college,-0.793
+1620,55,46,high_school,0.577
+1621,46,31,some_college,2.537
+1622,18,50,high_school,0.784
+1623,3,49,high_school,1.945
+1624,36,51,COLLEGE,-0.585
+1625,4,58,high_school,0.872
+1626,59,59,  graduate  ,1.477
+1627,1,38,some_college,-0.751
+1628,21,26,high_school,-0.951
+1629,12,28,some_college,1.113
+1630,20,39,college,-0.893
+1631,7,35,high_school,-1.969
+1632,40,37,high_school,-0.984
+1633,76,35,college,1.31
+1634,61,40,high_school,2.896
+1635,52,25,college,0.967
+1636,38,33,  high_school  ,-0.865
+1637,49,25,some_college,-0.361
+1638,70,33,graduate,-0.859
+1639,25,55,  high_school  ,0.444
+1640,39,49,college,-0.304
+1641,73,36,graduate,0.489
+1642,3,53,some_college,0.439
+1643,3,45,college,-1.711
+1644,33,35,high_school,1.304
+1645,37,29,college,0.476
+1646,64,46,college,-0.218
+1647,37,27,college,2.284
+1648,4,41,high_school,-0.398
+1649,44,38,graduate,0.663
+1650,44,59,graduate,2.152
+1651,36,40,  high_school  ,0.039
+1652,51,57,graduate,-0.77
+1653,54,58,some_college,-0.374
+1654,21,45,college,0.383
+1655,4,51,  COLLEGE  ,0.839
+1656,44,34,college,0.973
+1657,11,39,HIGH_SCHOOL,-0.106
+1658,56,54,  college  ,-1.023
+1659,14,32,high_school,-0.025
+1660,39,44,high_school,0.174
+1661,74,26,college,-0.199
+1662,72,25,graduate,-1.304
+1663,8,55,college,-0.047
+1664,11,29,high_school,0.69
+1665,33,36,high_school,-0.667
+1666,24,35,  COLLEGE  ,0.767
+1667,20,60,COLLEGE,-0.133
+1668,79,59,high_school,1.192
+1669,11,46,some_college,-0.32
+1670,12,58,graduate,-0.671
+1671,77,30,COLLEGE,-0.007
+1672,42,48,  high_school  ,-0.527
+1673,11,55,college,0.815
+1674,58,53,  college  ,0.035
+1675,25,41,high_school,0.293
+1676,64,55,high_school,0.819
+1677,49,58,graduate,0.054
+1678,69,28,college,-2.232
+1679,30,26,some_college,1.189
+1680,80,48,COLLEGE,-0.068
+1681,57,38,high_school,0.397
+1682,3,44,some_college,0.168
+1683,10,31,high_school,2.03
+1684,77,45,college,-1.025
+1685,23,41,college,0.534
+1686,53,25,college,-0.352
+1687,17,52,  college  ,0.654
+1688,79,59,  some_college  ,-0.391
+1689,5,52,  high_school  ,-0.153
+1690,63,59,high_school,0.719
+1691,9,45,high_school,-0.491
+1692,78,33,high_school,-0.984
+1693,10,60,some_college,-0.006
+1694,1,60,  some_college  ,-0.295
+1695,68,27,COLLEGE,0.034
+1696,74,42,high_school,-0.885
+1697,52,28,college,1.126
+1698,64,42,COLLEGE,-2.889
+1699,35,42,college,-1.294
+1700,63,52,college,-0.891
+1701,64,52,  COLLEGE  ,1.962
+1702,7,37,high_school,0.003
+1703,71,54,COLLEGE,0.648
+1704,22,60,high_school,0.882
+1705,25,51,graduate,-0.628
+1706,19,38,some_college,1.421
+1707,25,39,college,0.75
+1708,72,53,graduate,0.032
+1709,6,32,college,-1.18
+1710,35,34,  graduate  ,1.19
+1711,57,26,high_school,2.156
+1712,22,30,high_school,-0.722
+1713,33,38,college,0.019
+1714,63,55,high_school,0.736
+1715,18,59,high_school,-1.094
+1716,55,45,some_college,-0.47
+1717,51,40,some_college,-0.274
+1718,4,40,some_college,2.308
+1719,56,36,graduate,0.699
+1720,46,59,high_school,-0.314
+1721,52,29,high_school,2.38
+1722,57,34,some_college,-1.139
+1723,35,32,high_school,0.401
+1724,65,31,college,0.047
+1725,16,35,college,0.477
+1726,11,48,high_school,-0.888
+1727,66,41,  high_school  ,-1.54
+1728,42,38,college,-0.379
+1729,44,58,  high_school  ,-0.958
+1730,40,55,COLLEGE,-0.975
+1731,76,46,  graduate  ,-0.349
+1732,32,51,high_school,2.118
+1733,44,53,COLLEGE,-0.062
+1734,79,45,high_school,1.171
+1735,62,58,graduate,0.848
+1736,40,50,high_school,2.441
+1737,38,32,college,1.253
+1738,31,60,high_school,1.056
+1739,32,33,some_college,-1.704
+1740,58,25,graduate,1.358
+1741,68,39,high_school,-0.177
+1742,68,35,graduate,-1.307
+1743,44,57,high_school,0.385
+1744,60,51,HIGH_SCHOOL,-0.781
+1745,6,41,graduate,-0.127
+1746,36,35,college,-0.028
+1747,49,34,some_college,0.072
+1748,43,30,  graduate  ,1.058
+1749,54,42,college,-1.655
+1750,46,41,COLLEGE,-1.015
+1751,26,40,college,-2.353
+1752,31,41,graduate,0.053
+1753,37,35,high_school,0.94
+1754,80,53,college,-0.994
+1755,27,34,college,-1.205
+1756,53,47,  some_college  ,0.305
+1757,23,59,high_school,-1.102
+1758,14,50,  some_college  ,-0.16
+1759,65,54,college,-1.852
+1760,35,25,college,-0.289
+1761,37,33,college,0.501
+1762,17,33,high_school,-0.679
+1763,45,40,high_school,-2.885
+1764,72,33,some_college,1.358
+1765,27,28,COLLEGE,-1.949
+1766,1,49,SOME_COLLEGE,-0.186
+1767,72,47,college,-0.844
+1768,56,60,some_college,-0.864
+1769,18,48,high_school,1.282
+1770,31,39,graduate,-0.574
+1771,57,44,high_school,-0.598
+1772,9,39,high_school,-0.002
+1773,14,34,SOME_COLLEGE,0.01
+1774,51,34,college,-0.359
+1775,49,42,college,0.763
+1776,9,31,graduate,-0.435
+1777,42,27,some_college,-0.491
+1778,16,59,graduate,0.262
+1779,4,44,some_college,-1.932
+1780,19,46,  graduate  ,-1.556
+1781,28,41,college,1.157
+1782,2,47,  some_college  ,-0.467
+1783,47,31,college,1.292
+1784,8,52,graduate,-0.147
+1785,31,32,graduate,-0.623
+1786,80,39,HIGH_SCHOOL,-0.926
+1787,75,30,high_school,-0.456
+1788,14,33,high_school,1.532
+1789,13,34,college,-0.575
+1790,19,31,college,-1.146
+1791,53,27,some_college,0.481
+1792,54,48,college,-1.212
+1793,2,27,high_school,1.707
+1794,69,33,graduate,-1.138
+1795,74,39,some_college,0.433
+1796,74,44,graduate,0.61
+1797,60,29,graduate,-1.33
+1798,25,32,college,0.953
+1799,53,25,HIGH_SCHOOL,0.187
+1800,14,32,graduate,1.165
+1801,64,28,  college  ,0.651
+1802,49,47,high_school,1.347
+1803,57,32,some_college,0.168
+1804,43,60,  high_school  ,1.702
+1805,47,31,college,-1.192
+1806,5,49,college,-1.144
+1807,40,29,college,-0.133
+1808,64,29,high_school,-1.203
+1809,74,29,college,0.563
+1810,24,32,high_school,0.899
+1811,76,53,college,-1.258
+1812,55,43,  college  ,1.102
+1813,34,57,high_school,0.158
+1814,1,30,high_school,-0.61
+1815,46,39,college,1.888
+1816,73,40,college,1.219
+1817,53,37,college,-1.743
+1818,62,51,SOME_COLLEGE,-1.215
+1819,51,50,high_school,0.598
+1820,59,55,college,0.811
+1821,72,36,graduate,-1.57
+1822,63,27,high_school,1.305
+1823,42,40,college,0.686
+1824,9,32,some_college,0.703
+1825,64,57,college,-2.583
+1826,61,30,graduate,-1.352
+1827,60,26,college,-0.768
+1828,44,43,college,-0.602
+1829,33,28,high_school,1.688
+1830,47,29,graduate,0.824
+1831,42,53,graduate,2.448
+1832,1,41,high_school,-1.316
+1833,8,55,college,-0.357
+1834,8,59,high_school,-0.383
+1835,60,56,college,0.929
+1836,63,27,some_college,1.771
+1837,19,29,college,-0.323
+1838,42,44,graduate,-1.18
+1839,36,41,some_college,-0.416
+1840,40,31,college,0.365
+1841,79,38,high_school,0.689
+1842,76,31,some_college,-0.489
+1843,28,46,high_school,-1.708
+1844,12,59,high_school,-1.371
+1845,57,57,SOME_COLLEGE,0.077
+1846,61,26,college,-0.3
+1847,68,33,high_school,-0.972
+1848,36,54,college,-0.619
+1849,27,56,SOME_COLLEGE,-0.17
+1850,11,34,HIGH_SCHOOL,-0.021
+1851,52,39,graduate,-0.117
+1852,21,27,some_college,-1.645
+1853,36,45,graduate,-0.963
+1854,32,29,high_school,-0.238
+1855,58,33,college,-2.898
+1856,31,44,college,0.159
+1857,68,35,college,0.184
+1858,3,31,graduate,-0.913
+1859,36,56,college,1.401
+1860,13,50,graduate,0.426
+1861,5,59,college,0.396
+1862,51,56,  some_college  ,-0.347
+1863,65,33,  high_school  ,-0.864
+1864,13,51,college,-1.47
+1865,27,59,high_school,-1.842
+1866,11,52,high_school,1.917
+1867,30,46,  high_school  ,1.538
+1868,34,39,COLLEGE,-0.918
+1869,3,35,COLLEGE,0.867
+1870,10,60,some_college,-0.795
+1871,66,28,some_college,1.254
+1872,14,33,college,0.904
+1873,29,60,some_college,-0.204
+1874,44,57,high_school,1.641
+1875,6,35,college,0.24
+1876,4,52,  college  ,-0.019
+1877,14,33,high_school,0.472
+1878,16,38,some_college,0.959
+1879,20,55,high_school,-0.636
+1880,59,35,college,0.141
+1881,25,51,SOME_COLLEGE,-0.348
+1882,76,40,some_college,-0.358
+1883,18,43,  graduate  ,-0.226
+1884,56,32,college,-0.478
+1885,25,34,high_school,-0.006
+1886,39,47,college,-1.048
+1887,48,44,some_college,0.252
+1888,69,29,  high_school  ,-1.196
+1889,76,58,some_college,-0.831
+1890,15,54,college,-0.429
+1891,47,46,some_college,-0.003
+1892,10,59,graduate,-0.198
+1893,12,40,some_college,0.681
+1894,4,27,some_college,0.225
+1895,51,29,college,-1.303
+1896,78,27,some_college,-1.36
+1897,24,34,  college  ,0.023
+1898,33,50,  some_college  ,0.618
+1899,29,52,some_college,-1.233
+1900,30,41,  high_school  ,-0.456
+1901,32,37,graduate,-0.762
+1902,6,28,graduate,1.415
+1903,65,35,college,-0.968
+1904,8,43,some_college,-0.413
+1905,55,45,high_school,-0.499
+1906,22,33,graduate,0.178
+1907,14,36,some_college,-0.187
+1908,70,60,some_college,-0.009
+1909,24,53,college,1.989
+1910,44,54,some_college,0.46
+1911,71,35,some_college,0.183
+1912,57,30,some_college,0.252
+1913,75,51,graduate,0.593
+1914,52,53,some_college,1.257
+1915,60,29,college,-2.006
+1916,29,52,graduate,0.606
+1917,39,25,college,1.369
+1918,30,28,some_college,-0.193
+1919,30,28,graduate,-1.206
+1920,1,44,graduate,-1.415
+1921,76,52,college,0.578
+1922,37,40,some_college,0.953
+1923,61,34,some_college,-0.966
+1924,78,55,high_school,-0.564
+1925,9,43,  some_college  ,-0.739
+1926,27,43,college,0.351
+1927,19,57,COLLEGE,-0.493
+1928,23,52,graduate,1.242
+1929,79,38,graduate,1.081
+1930,47,55,some_college,1.031
+1931,77,41,SOME_COLLEGE,-0.381
+1932,38,36,graduate,0.623
+1933,63,46,  college  ,-0.965
+1934,15,59,college,0.082
+1935,32,30,college,0.495
+1936,43,36,college,0.324
+1937,7,42,some_college,-1.2
+1938,62,31,COLLEGE,-0.456
+1939,15,25,some_college,-0.609
+1940,58,51,college,-0.661
+1941,1,32,some_college,-1.958
+1942,21,56,  COLLEGE  ,-0.441
+1943,18,29,college,-0.185
+1944,44,60,some_college,0.435
+1945,37,35,HIGH_SCHOOL,-1.49
+1946,36,35,high_school,-0.281
+1947,8,45,HIGH_SCHOOL,0.104
+1948,1,60,HIGH_SCHOOL,0.194
+1949,27,26,graduate,0.564
+1950,53,36,graduate,-0.309
+1951,19,29,some_college,-0.899
+1952,42,59,college,-0.067
+1953,37,53,some_college,-1.297
+1954,77,50,high_school,-0.057
+1955,68,44,college,-1.013
+1956,32,50,some_college,-0.731
+1957,39,54,high_school,0.6
+1958,2,25,college,-0.317
+1959,54,28,high_school,1.751
+1960,58,33,college,-0.221
+1961,4,60,high_school,1.156
+1962,33,60,HIGH_SCHOOL,-1.603
+1963,5,55,graduate,2.194
+1964,42,37,COLLEGE,0.583
+1965,11,42,high_school,-1.204
+1966,66,28,  high_school  ,-1.384
+1967,46,39,college,-0.7
+1968,5,55,COLLEGE,-0.444
+1969,20,60,  HIGH_SCHOOL  ,2.315
+1970,7,47,GRADUATE,0.447
+1971,46,43,some_college,-0.01
+1972,34,38,high_school,0.064
+1973,54,39,some_college,0.751
+1974,11,57,college,0.707
+1975,33,34,college,1.522
+1976,47,53,high_school,-0.211
+1977,63,30,  college  ,-1.233
+1978,66,25,college,0.441
+1979,67,42,high_school,0.396
+1980,37,43,SOME_COLLEGE,-0.743
+1981,30,40,college,-1.124
+1982,75,49,COLLEGE,0.609
+1983,23,35,college,0.383
+1984,46,32,some_college,0.466
+1985,38,54,college,-0.152
+1986,42,31,some_college,-1.954
+1987,32,30,COLLEGE,-0.898
+1988,53,34,high_school,0.321
+1989,37,59,SOME_COLLEGE,-0.498
+1990,17,45,graduate,-0.104
+1991,76,39,college,-0.024
+1992,59,53,college,-1.908
+1993,13,38,college,2.663
+1994,72,52,some_college,0.986
+1995,58,60,college,0.049
+1996,22,46,some_college,1.275
+1997,57,34,GRADUATE,0.267
+1998,61,42,some_college,1.205
+1999,6,45,  GRADUATE  ,1.271
+2000,44,42,college,-0.996
+298,73,60,some_college,0.687
+1517,77,45,graduate,1.974
+404,69,40,graduate,0.512
+1628,21,26,high_school,-0.951
+743,38,53,graduate,-1.913
+1390,59,25,  high_school  ,-1.719
+334,1,51,high_school,-0.497
+241,51,57,  college  ,-0.916
+1254,67,51,some_college,-0.735
+473,33,30,college,1.309
