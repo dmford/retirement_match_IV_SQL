@@ -1,8 +1,8 @@
 DROP TABLE IF EXISTS household_finances_clean;
 
 CREATE TABLE household_finances_clean AS
-SELECT
-    employee_id,
+SELECT DISTINCT
+    TRY_CAST(employee_id AS BIGINT) AS employee_id,
 
     CASE
         WHEN net_worth IS NULL OR TRIM(CAST(net_worth AS VARCHAR)) = '' THEN NULL
@@ -25,4 +25,5 @@ SELECT
             ) AS DOUBLE
         )
     END AS household_debt
+
 FROM household_finances_raw;

@@ -1,14 +1,13 @@
 DROP TABLE IF EXISTS earnings_clean;
 
 CREATE TABLE earnings_clean AS
-SELECT
-    employee_id,
+SELECT DISTINCT
+    TRY_CAST(employee_id AS BIGINT) AS employee_id,
 
     CASE
         WHEN annual_earnings IS NULL
              OR TRIM(CAST(annual_earnings AS VARCHAR)) = ''
             THEN NULL
-
         ELSE TRY_CAST(
             REPLACE(
                 REPLACE(

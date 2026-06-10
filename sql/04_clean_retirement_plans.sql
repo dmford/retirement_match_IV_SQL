@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS retirement_plans_clean;
 
 CREATE TABLE retirement_plans_clean AS
-SELECT
+SELECT DISTINCT
     TRY_CAST(employee_id AS BIGINT) AS employee_id,
 
     CASE
@@ -26,4 +26,5 @@ SELECT
         ELSE
             TRY_CAST(TRIM(CAST(retirement_contribution_rate AS VARCHAR)) AS DOUBLE)
     END AS retirement_contribution_rate
+
 FROM retirement_plans_raw;
